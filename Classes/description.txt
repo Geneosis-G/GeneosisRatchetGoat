@@ -1,0 +1,34 @@
+Why must we always chose between certain death and probable death?
+
+That's what Clank said the last time I tried to kill our enemies with a wrench instead of a rocket launcher... I don't get it, the boomerang wrench is a pretty good weapon!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Ratchet Goat: You have a boomerang wrench and Clank on your back.
+
+[b]COMMANDS[/b]
+- [b][LeftClick]:[/b] Hold to throw the boomerang wrench.
+- [b]2x[SpaceBar]:[/b] Double jump.
+- [b][SpaceBar]:[/b] Hold for slow fall.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][RT]:[/b] Hold to throw the boomerang wrench.
+- [b]2x[A]:[/b] Double jump.
+- [b][A]:[/b] Hold for slow fall.
+
+[b]CHARACTERISTICS[/b]
+- The boomerang wrench will fly forward and destroy everything it touch until:
+-- It reach the max distance.
+-- You release the attack key.
+-- 10 seconds have passed since you launched it.
+
+[b]KNOWN BUGS[/b]
+- The wrench and Clank can have weird placements depending on the animal you play with.
+- When you throw the wrench non horizontally, it will still spin horizontally (too lazy to fix).
+
+[b]DEV NOTES[/b]
+[quote=About this mod]That was a fun mod to create ^^ Making that damn [strike]G2[/strike] Clank behave correctly was a pain in the ***, but I finally made it after changing the properties of the robot again and again X) The base of it was the Rudolph Goat (with it's riding mechanism), but I had to change a lot of things to remove completely collisions on the robot and avoid glitchy behaviours ^^
+Then I started working on the wrench. Basically, a copy of the laser sword (from Hero Goat), but spinnig and not dissapearing after one hit ^^ Because fo that I had to adjust the damages of the wrench in the MMO and GoatZ to have it kind of balanced compared to your headbutt damages.
+There was another ability request which was a dancing globe (as in the last R&C game), but I didn't add it for now as this is not something present in all versions of the game, and some other mutator (Deadgoa7) already provide a power really close to that :)
+[/quote]
